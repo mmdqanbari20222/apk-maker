@@ -1,0 +1,15 @@
+{
+  "appId": "ir.bimennatyar.app",
+  "appName": "بی منت یار",
+  "webDir": "www",
+  "server": {
+    "url": "https://bimennatyar.ir/accounts/login/",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
